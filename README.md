@@ -2,7 +2,7 @@
 
 ## Design Patterns（设计模式）
 
-https://refactoringguru.cn/
+https://refactoringguru.cn/  
 《Graphical Design Patterns》https://design-patterns.readthedocs.io/zh-cn/latest/index.html
 
 ## Deep Learning （深度学习）
